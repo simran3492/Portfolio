@@ -90,7 +90,7 @@ const About = () => {
           {/* Resume Button */}
           <div className="text-center md:text-left mb-10">
             <a
-              href="https://drive.google.com/file/d/1V-d41RndqnA8YBwEHUXNoSb6zpRK-8jd/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1V5MGUI4494DUPoZDpCAtZNoyYBzWS6gP/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative inline-flex items-center justify-center text-slate-900 py-4 px-10 rounded-full text-lg font-bold transition-all duration-500 transform hover:scale-105 overflow-hidden"
