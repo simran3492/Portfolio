@@ -138,7 +138,7 @@ export const experiences = [
   img: kbp, // replace with the actual company logo import
   role: "Frontend & Backend (Intern)",
   company: "KPB Supports Solutions",
-  date: "July 2025 - 15 Aug 2025",
+  date: "July 2025 - Aug 2025",
   desc: "Contributed to both frontend and backend development by building responsive UI components and integrating them with RESTful APIs. Worked on backend services for data handling and authentication, while also optimizing database queries. Assisted in developing internal tools and implementing AI-driven automation features.",
   skills: [
     "React JS",
